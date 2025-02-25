@@ -1,0 +1,14 @@
+{
+  "name": "node-server-project",
+  "version": "1.0.0",
+  "description": "A simple Node.js server that displays a 'Coming Soon' message.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
